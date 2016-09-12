@@ -1,0 +1,20 @@
+{
+  "name": "frontend_framework",
+  "version": "1.0.0",
+  "description": "Set Front-end development environment",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp-webserver": "^0.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple server"
+  ],
+  "author": "",
+  "license": "ISC"
+}
